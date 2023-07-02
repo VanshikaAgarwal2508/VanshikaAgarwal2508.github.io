@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshika Agarwal.</h1>
  <br/>
     <h4 align="center">
-      A skilled and self-motivated MERN Stack developer, I have developed
-      dynamic and interactive user interfaces using popular libraries and
-      frameworks. I am a team player with good communication skills, and I am
-      excited to contribute my skills and passion for creating innovative and
-      scalable web applications as a MERN stack developer
+      I am a skilled and self-motivated MERN Stack developer with expertise in creating dynamic and interactive user interfaces. With strong communication skills and a passion for innovation, I excel at collaborating with teams to deliver scalable web applications. I am eager to contribute my skills and drive to create impactful solutions as a MERN Stack developer.
     </h4>
     <br />
 
